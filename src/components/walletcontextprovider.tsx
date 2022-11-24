@@ -1,4 +1,4 @@
-'use-client'
+'use client'
 import type { FC, ReactNode } from 'react'
 import {
     ConnectionProvider,
